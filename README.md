@@ -1,6 +1,6 @@
 # CudaVision_Lab
 
-project_1
+lab_1:
 
 Built 2 layer network
 
@@ -21,3 +21,10 @@ Used softmax activation => softmax(x.W+b)
 Used MSE(activation-y)
 
 Trained the model on MNIST dataset
+
+
+lab_2:
+
+Trained a Logistic Regression Classifier with CIFAR-10 dataset using PyTorch
+Drew learning curve and confusion matrix
+Found the best hyperparameters
