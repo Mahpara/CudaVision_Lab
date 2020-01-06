@@ -26,5 +26,7 @@ Trained the model on MNIST dataset
 lab_2:
 
 Trained a Logistic Regression Classifier with CIFAR-10 dataset using PyTorch
+
 Drew learning curve and confusion matrix
+
 Found the best hyperparameters
